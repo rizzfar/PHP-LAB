@@ -1,8 +1,8 @@
-<?php
-// Latihan 5: Foreach Loop
-$buah = ["Apel", "Mangga", "Jeruk", "Pisang"];
+<?php 
+  $buah = ["Apel", "Mangga", "Jeruk", "Pisang"];
 
-foreach ($buah as $b) {
-    echo "$b ";
-}
+  foreach ($buah as $b) {
+    echo "$b <br> <br>";
+  }
+
 ?>
